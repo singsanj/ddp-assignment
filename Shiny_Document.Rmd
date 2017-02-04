@@ -1,0 +1,26 @@
+---
+title: "Description"
+author: "Sanjay Kumar Singh"
+date: "February 5, 2017"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Overview
+
+This was built as part of a deliverable for the course Developing Data Products as part of the Coursera Data Science Specialization.
+
+The app developed for the first part of the assignment demo is avalilable at: https://singsanj.shinyapps.io/testapp/
+
+Source code for ui.R and server.R files are available on the GitHub repo: 
+
+## Web Application functionality
+
+The website uses US census data from the year 2010, You can download it [here](https://shiny.rstudio.com/tutorial/lesson5/census-app/data/counties.rds).
+
+
+
